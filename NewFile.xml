@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Snapshot date="dd:mm">
+	<Gebauede>
+		<Kennung>Z</Kennung>
+		<Bezeichnung>Zentralgebäude</Bezeichnung>
+		<Position>
+			<Breite>N 51.037537</Breite>
+			<Laenge>E 13.735195</Laenge>
+		</Position>	
+		<Geo_Room_Ja_Nein>ja</Geo_Room_Ja_Nein>
+		<Student id="020">
+			<Vorname>Peter</Vorname>
+			<Name>Shaw</Name>
+		</Student>
+		<Student id="030">
+			<Vorname>Bob</Vorname>
+			<Name>Andrews</Name>
+		</Student>
+		<Student id="110">
+			<Vorname>Justus</Vorname>
+			<Name>Jonas</Name>
+		</Student>
+	</Gebauede>
+	<Gebauede>
+		<Kennung>A</Kennung>
+		<Bezeichnung>Gebäude Andreas-Schubert-Straße</Bezeichnung>
+		<Position>
+			<Breite>N 51.035465</Breite>
+			<Laenge>E 13.736257</Laenge>
+		</Position>	
+		<Geo_Room_Ja_Nein>nein</Geo_Room_Ja_Nein>
+		<Student id="321">
+			<Vorname>Peter</Vorname>
+			<Name>Müller</Name>
+		</Student>
+		<Student id="101">
+			<Vorname>Anna</Vorname>
+			<Name>Lose</Name>
+		</Student>
+		<Student id="554">
+			<Vorname>Maria</Vorname>
+			<Name>Kuhn</Name>
+		</Student>
+	</Gebauede>
+	<Gebauede>
+		<Kennung>M</Kennung>
+		<Bezeichnung>Mensa Reichenbachstraße</Bezeichnung>
+		<Position>
+			<Breite>N 51.03415</Breite>
+			<Laenge>E 13.735742</Laenge>
+		</Position>	
+		<Geo_Room_Ja_Nein>ja</Geo_Room_Ja_Nein>
+		<Student id="999">
+			<Vorname>Pierre</Vorname>
+			<Name>Hut</Name>
+		</Student>
+		<Student id="888">
+			<Vorname>Marta</Vorname>
+			<Name>Punkt</Name>
+		</Student>
+	</Gebauede>
+	<Gebauede>
+		<Kennung>T</Kennung>
+		<Bezeichnung>Dezernat Technik</Bezeichnung>
+		<Position>
+			<Breite>N 51.036862</Breite>
+			<Laenge>E 13.736912</Laenge>
+		</Position>		
+		<Geo_Room_Ja_Nein>nein</Geo_Room_Ja_Nein>
+		<Student></Student>
+	</Gebauede>
+	<Gebauede>
+		<Kennung>W</Kennung>
+		<Bezeichnung>Modellwerkstatt Fakultät Gestaltung</Bezeichnung>
+		<Position>
+			<Breite>N 51.035944</Breite>
+			<Laenge>E 13.736633</Laenge>
+		</Position>	
+		<Geo_Room_Ja_Nein>nein</Geo_Room_Ja_Nein>
+		<Student></Student>
+	</Gebauede>
+</Snapshot>
